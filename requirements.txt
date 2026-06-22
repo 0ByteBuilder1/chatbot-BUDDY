@@ -1,0 +1,4 @@
+chatterbot
+chatterbot_corpus
+pyyaml
+click
