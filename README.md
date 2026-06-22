@@ -111,8 +111,8 @@ chatbot/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/0ByteBuilder1/chatbot-BUDDY.git
+cd chatbot-BUDDY
 ```
 
 **2. (Recommended) Create a virtual environment**
