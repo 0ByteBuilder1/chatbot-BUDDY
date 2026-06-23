@@ -2,7 +2,7 @@
 
 A terminal-based conversational chatbot built with the [ChatterBot](https://github.com/gunthercox/ChatterBot) Python library. Buddy learns from example conversations and uses **string similarity matching** to find the best response to whatever the user types — no hardcoded if-else logic, no internet connection required.
 
-> **Internship Project** | Built as a demonstration of retrieval-based chatbot design using Python.
+> Built as a demonstration of retrieval-based chatbot design using Python.
 
 ---
 
