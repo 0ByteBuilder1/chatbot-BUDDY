@@ -258,6 +258,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 INTERN ID : CITS3134 | 
 NAME      : YES CHANDRA |
 DURATION  : 4 WEEKS |
-PROJECT NAME : Expense Tracker (CSV/JSON) |
+PROJECT NAME : Chatbot using ChatterBot |
 
 ---
