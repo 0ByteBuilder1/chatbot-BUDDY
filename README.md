@@ -251,3 +251,13 @@ Training data is persisted in a local SQLite file. This means the bot only needs
 ##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## Details
+INTERN ID : CITS3134 | 
+NAME      : YES CHANDRA |
+DURATION  : 4 WEEKS |
+PROJECT NAME : Expense Tracker (CSV/JSON) |
+
+---
