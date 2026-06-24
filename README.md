@@ -54,6 +54,15 @@ Buddy: Goodbye!
 
 ---
 
+##  Screenshots and Output
+
+<p align="center">
+  <img src="screenshots/main.png" width="45%">
+  <img src="screenshots/demo.png" width="45%">
+</p>
+
+---
+
 ##  How It Works
 
 Buddy is a **retrieval-based chatbot**. It does not generate new text — instead it:
